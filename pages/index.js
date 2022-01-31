@@ -3,9 +3,9 @@ import AppLayout from '../components/Applayout';
 
 const Home = () => {
   return (
-    <AppLayout>
-      <div>Hello, Next!</div>
-    </AppLayout>
+      <AppLayout>
+        <div>Hello, Next!</div>
+      </AppLayout>
     );
 };
 
